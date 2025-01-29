@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- boas vindas -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&duration=1000&pause=1000&color=9224F7&center=true&vCenter=true&width=435&lines=Oi!+;Bem-vindo+ao+meu+github+" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**marcellarc/marcellarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<!-- introdução -->
 
-Here are some ideas to get you started:
+<p align="center">eu sou uma estudante de Análise e Desenvolvimento de Sistemas na FATEC da baixada santista. atualmente, estou focada em front-end, que é minha verdadeira paixão. busco sempre novos conhecimentos e desafios na área da tecnologia para aprimorar minhas habilidades.  </p>
+  
+#
+<img align="right" alt="" height="190px" src="./img/study-gif.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Tech Skills </h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs" />
+  </a>
+</p>

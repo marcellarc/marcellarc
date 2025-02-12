@@ -14,7 +14,7 @@
 <h3> tech skills </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs,java" />
   </a>
 </p>
 

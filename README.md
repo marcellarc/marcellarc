@@ -7,7 +7,7 @@
 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Buscando oportunidades na área de desenvolvimento. <br> 💻 Estudando Java e Javascript. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
   
 #
-<img align="right" alt="study gif" height="290px" width="510px" src="./img/study-gif.gif">
+<img align="right" alt="study gif" height="200px" width="400px" src="./img/study-gif.gif">
 
 <!-- stats -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellarc&layout=compact&theme=radical&bg_color=00000000) 

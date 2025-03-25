@@ -6,17 +6,15 @@
 <!-- introdução -->
 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Buscando oportunidades na área de desenvolvimento. <br> 💻 Estudando Java e Javascript. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
 
-
-
 #
 <!-- stats -->
-
-<img align="right" src="./img/study-gif.gif" alt="study gif" height="200px" width="420px">
+<img align="right" src="./img/study-gif.gif" alt="study gif" height="200px" width="400px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellarc&layout=compact&theme=radical&bg_color=00000000) 
 ![](https://github-readme-stats.vercel.app/api?username=marcellarc&show_icons=true&theme=radical&bg_color=00000000)
 
 #
+
 <!-- habilidades -->
 <h3> Tech Skills </h3>
 <p>
@@ -25,9 +23,9 @@
   </a>
 </p>
 
-<h3 align="left">entre em contato!</h3>
+<h3 align="left">Entre em contato!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:marcellaricoy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/marcella-ricoy-b01529254/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellaricoy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcella-ricoy-b01529254/)
 
 ###

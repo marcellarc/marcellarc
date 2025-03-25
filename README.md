@@ -5,11 +5,14 @@
 
 <!-- introdução -->
 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Buscando oportunidades na área de desenvolvimento. <br> 💻 Estudando Java e Javascript. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
-  
-#
-<img align="right" alt="study gif" height="200px" width="400px" src="./img/study-gif.gif">
 
+
+
+#
 <!-- stats -->
+
+<img align="right" src="./img/study-gif.gif" alt="study gif" height="250px" width="450px">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellarc&layout=compact&theme=radical&bg_color=00000000) 
 ![](https://github-readme-stats.vercel.app/api?username=marcellarc&show_icons=true&theme=radical&bg_color=00000000)
 

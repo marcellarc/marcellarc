@@ -8,7 +8,7 @@
 
 #
 <!-- stats -->
-<img align="right" src="./img/study-gif.gif" alt="study gif" height="250px" width="380px">
+<img align="right" src="./img/study-gif.gif" alt="study gif" height="200px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellarc&layout=compact&theme=radical&bg_color=00000000) ![](https://github-readme-stats.vercel.app/api?username=marcellarc&show_icons=true&theme=radical&bg_color=00000000)
 

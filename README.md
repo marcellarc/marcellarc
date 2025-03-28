@@ -8,7 +8,7 @@
 
 <img align="right" src="./img/study-gif.gif" alt="study gif" height="150px" width="200px;">
 
-👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Buscando oportunidades na área de desenvolvimento. <br> 💻 Estudando Java e Javascript. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
+👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Buscando oportunidades na área de desenvolvimento. <br> 💻 Estudando Java, Javascript e Banco de Dados. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
 
 #
 <!-- stats -->

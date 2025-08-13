@@ -9,7 +9,7 @@
 <img align="right" src="./img/study-gif.gif" alt="study gif" height="150px" width="200px;">
 <br>
 
-👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Buscando oportunidades na área de desenvolvimento. <br> 💻 Estudando Java, Typescript e Angular. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
+👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara. <br> 📚 Estagiando como desenvolvedora front-end na GBM Tech & Control. <br> 💻 Estudando Java, Typescript, React e NextJS. <br>👩‍💻 Apaixonada por códigos, tecnologia e inovação. <br>✨ Sempre buscando aprender mais para crescer no ramo da tecnologia.
 
 <br>
 
@@ -24,7 +24,7 @@
 <h3> Tech Skills </h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs,java,ts,angular" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cs,java,ts,angular,react,nextjs" />
   </a>
 </p>
 
